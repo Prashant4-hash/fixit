@@ -1,6 +1,6 @@
 # FixIt CLI
 
-[Download Complete Technical Documentation (Word Document)](https://github.com/Prashant4-hash/fixit/blob/main/FixIt_CLI_Project_Documentation.docx)
+[?? Download Complete Technical Documentation (.docx)](https://github.com/Prashant4-hash/fixit/blob/main/FixIt_CLI_Project_Documentation.docx)
 
 An AI-powered terminal error helper built with Python and OpenRouter.
 
