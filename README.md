@@ -10,5 +10,7 @@ An AI-powered terminal error helper built with Python and OpenRouter.
 - Interactive execution prompt before running suggested commands
 
 ## Installation & Setup
-1. Clone the repository and add your API key to key.txt.
-2. Add the ixit function to your PowerShell $PROFILE.
+1. **Clone Repository:** git clone https://github.com/Prashant4-hash/fixit.git
+2. **Store API Credentials:** Create key.txt inside the project folder and paste an OpenRouter API key.
+3. **Register PowerShell Function:** Append the ixit function into $PROFILE using Add-Content.
+4. **Verify Setup:** Run ixit "git comit" to confirm live AI responses.
