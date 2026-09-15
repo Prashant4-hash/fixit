@@ -1,3 +1,4 @@
+<img width="800" height="450" alt="1000202769" src="https://github.com/user-attachments/assets/33bbb0a0-ed77-4b28-8a94-2ce771a6f17c" />
 ﻿# FixIt CLI
 
 > **Documentation:** [View Technical Project Documentation (.docx)](https://github.com/Prashant4-hash/fixit/blob/main/FixIt_CLI_Project_Documentation.docx)
